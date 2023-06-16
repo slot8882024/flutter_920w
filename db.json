@@ -1,0 +1,53 @@
+{
+  "AB": {
+    "A": {
+      "U": "1",
+      "onoff": 0,
+      "isios": 0,
+      "iosU": "1",
+      "Area": [
+        "TR",
+        "BR",
+        "HK",
+        "PH",
+        "KR"
+      ],
+      "Event": [
+        "adj_complete_registration",
+        "adj_purchase1",
+        "adj_purchase1_value",
+        "deposit",
+        "depositSubmit",
+        "deposit-success",
+        "firstDeposit",
+        "firstDepositArrival",
+        "first-deposit-success",
+        "firstOpen",
+        "first-recharge-success",
+        "recharge-success",
+        "register",
+        "registerSubmit",
+        "signup-success",
+        "withdraw"
+      ],
+      "ID": [
+        "u5ajjy",
+        "rt0yzw",
+        "dcxk3n",
+        "2mc2q6",
+        "lba3k7",
+        "g31ig3",
+        "lkneqp",
+        "o87anb",
+        "h7wgl6",
+        "tmxy4s",
+        "dhpuso",
+        "hpk9wx",
+        "u2whbf",
+        "lf2v8x",
+        "qfwwip",
+        "d7b1he"
+      ]
+    }
+  }
+}
